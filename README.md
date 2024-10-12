@@ -12,7 +12,7 @@ No business could run this way, just giving away money. However, a cryptocurrenc
 VantageCoin mints new coins by covering bets placed by the users.  The users choose what the odds of a win are, and the payout is adjusted so the odds are perfectly fair, then adds a tiny bit extra.
 
 #### An Example
-Imagine a lottery with only 10 possibilities.  The user picks a number between 0 and 9 and if their number comes up, they get 10x their original bet, plus a tiny little bonus.  Because of how cryptocurrencies work, the coins that was bet would be tied up in a transaction for some time after the bet.  During that time, a lot of complex things need to happen
+Imagine a lottery with only 10 possibilities.  The user picks a number between 0 and 9 and if their number comes up, they get 10x their original bet, plus a tiny little bonus.  Because of how cryptocurrencies work, the coins that were bet would be tied up in a transaction for some time after the bet.  During that time, a lot of complex things need to happen
 
 first thing, the original user packages their wager up in a block.  These blocks take a bunch of bets from a bunch of people and decide who wins and who loses.  They also decide what the payout will be based on a set formula, and how much the bonus will be based on how many people are playing at once.
 
