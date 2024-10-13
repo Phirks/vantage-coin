@@ -1,5 +1,5 @@
 ## VantageCoin
-VantageCoin is a test bed for a 50+% casino.  Modern crypto casinos sit on the second layer with smart contracts or worse act like exchanges where they take ownership of all coins to be staked.  All bets are disadvantaged to provide profit to the house and they operate overseas with no oversight or legal protections.  VantageCoin aims to make them obsolete.
+VantageCoin is a test bed for a 50+% casino.  Modern crypto casinos, at best, sit on the second layer with smart contracts.  Some even act like exchanges where they take ownership of all coins to be staked.  All bets are disadvantaged to provide profit to the house and they operate overseas with no oversight or legal protections.  VantageCoin aims to make them obsolete.
 
 #### Vantage Difference
 In real casinos, sometimes a player plays a game with odds better than 50%, the casino calls them "Advantaged Players".  These are the card counters and cheats, and the casinos don't want their business.
